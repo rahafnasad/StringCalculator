@@ -36,7 +36,7 @@ npm run jest
 ```
 
 ### 🛠️ Technologies Used
-js: For building the calculator logic.
-Jest: For writing unit tests and ensuring 100% test coverage.
+- js: For building the calculator logic.
+- Jest: For writing unit tests and ensuring 100% test coverage.
 
 
