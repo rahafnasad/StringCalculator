@@ -39,4 +39,6 @@ npm run jest
 - js: For building the calculator logic.
 - Jest: For writing unit tests and ensuring 100% test coverage.
 
+### Result 
+![65554](https://github.com/user-attachments/assets/c707e3b2-75f1-42c2-be55-b448160a4d82)
 
